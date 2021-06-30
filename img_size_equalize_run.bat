@@ -1,0 +1,2 @@
+python img_size_equalize.py
+pause
